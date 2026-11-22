@@ -30,12 +30,10 @@ def main():
     if not repo or "/" not in repo:
         sys.exit('Set "github_repo": "owner/name" in agent/config.json')
     sha = git("rev-parse", "HEAD")
-    try:
-        unpushed = git("log", "--oneline", "@{u}..HEAD")
-    except subprocess.CalledProcessError:
-        sys.exit("No upstream branch: push first with `git push -u origin <branch>`.")
-    if unpushed:
-        sys.exit("Push first: these commits are not on GitHub yet:\n" + unpushed)
+    branch = git("rev-parse", "--abbrev-ref", "HEAD")
+    remote = git("ls-remote", "origin", f"refs/heads/{branch}").split()
+    if not remote or remote[0] != sha:
+        sys.exit(f"Push first: GitHub's {branch} is not at the local commit {sha[:7]}.")
     for f in files:
         rel = pathlib.Path(f).resolve().relative_to(REPO_ROOT).as_posix()
         if subprocess.run(["git", "ls-files", "--error-unmatch", rel], cwd=REPO_ROOT,

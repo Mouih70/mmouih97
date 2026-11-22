@@ -1,8 +1,38 @@
 {
   "version": 1,
-  "posts": [],
+  "posts": [
+    {
+      "date": "2026-11-22",
+      "topic": "Lancement : la page explique les trends du Maroc",
+      "category": "annonce",
+      "format": "carousel",
+      "trial": false,
+      "folder": "posts/2026-11-launch",
+      "media_id": "18111563564364060",
+      "permalink": "https://www.instagram.com/p/DgD3DqODCkx/",
+      "hook": "كل ترند فالمغرب، مشروح ليك بالدارجة",
+      "sources": [],
+      "stats": {
+        "views": null,
+        "reach": null,
+        "saves": null,
+        "shares": null,
+        "likes": null,
+        "comments": null,
+        "checked": null
+      }
+    }
+  ],
   "comments": [],
-  "weekly": [],
+  "weekly": [
+    {
+      "week": "2026-W47",
+      "followers": 5360,
+      "views": 19,
+      "posts": 1,
+      "note": "point de départ avant l'agent (vues = 30 derniers jours)"
+    }
+  ],
   "errors": [],
   "learnings": []
 }
