@@ -58,6 +58,12 @@
       "note": "point de départ avant l'agent (vues = 30 derniers jours)"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "date": "2026-11-23",
+      "step": "radar",
+      "detail": "Google Trends RSS non lu (autorisation WebFetch non accordée pendant l'exécution planifiée) ; radar fait avec WebSearch"
+    }
+  ],
   "learnings": []
 }
