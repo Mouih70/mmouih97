@@ -13,6 +13,31 @@
       "hook": "كل ترند فالمغرب، مشروح ليك بالدارجة",
       "sources": [],
       "stats": {
+        "views": 7,
+        "reach": 4,
+        "saves": 0,
+        "shares": 0,
+        "likes": null,
+        "comments": null,
+        "checked": "2026-11-23"
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "topic": "Mondial de football pour amputés 2026 (Mexique) : le Maroc vice-champion, finale perdue 1-0 contre le Ghana",
+      "category": "sport",
+      "format": "reel",
+      "trial": true,
+      "folder": "posts/2026-11-23-mondial-amputes",
+      "media_id": "18148144753592960",
+      "permalink": "https://www.instagram.com/reel/DgFbZF9NiTV/",
+      "hook": "المغرب وصيف بطل العالم ف الكورة ديال مبتوري الأطراف",
+      "sources": [
+        "هسبريس",
+        "لوبريف",
+        "Graphic Online"
+      ],
+      "stats": {
         "views": null,
         "reach": null,
         "saves": null,
