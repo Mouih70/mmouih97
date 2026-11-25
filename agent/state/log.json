@@ -46,6 +46,31 @@
         "comments": 0,
         "checked": "2026-11-25"
       }
+    },
+    {
+      "date": "2026-11-25",
+      "topic": "Mondial U17 2026 (Qatar) : aperçu avant Maroc-Espagne (jeudi 26/11), la 1re place du groupe H en jeu",
+      "category": "sport",
+      "format": "carousel",
+      "trial": false,
+      "folder": "posts/2026-11-25-u17-maroc-espagne",
+      "media_id": "18118915061003865",
+      "permalink": "https://www.instagram.com/p/DgKk0ejjbLL/",
+      "hook": "المغرب ضد إسبانيا: شكون غادي ياخد الصدارة؟",
+      "sources": [
+        "هسبريس",
+        "أفريك فوت",
+        "L'ODJ"
+      ],
+      "stats": {
+        "views": null,
+        "reach": null,
+        "saves": null,
+        "shares": null,
+        "likes": null,
+        "comments": null,
+        "checked": null
+      }
     }
   ],
   "comments": [],
@@ -70,5 +95,7 @@
       "detail": "Google Trends RSS non lu (permission WebFetch non accordée pendant l'exécution planifiée) ; radar fait avec WebSearch et la presse (Hespress, L'ODJ, Afrik-Foot)"
     }
   ],
-  "learnings": []
+  "learnings": [
+    "Rendu : dans une phrase arabe, « 6-0 » ou « 90+9 » s'affichent inversés (bidi) ; écrire les scores en mots (« بـ6 لصفر ») et la minute en un seul nombre (« الدقيقة 99 »)."
+  ]
 }
