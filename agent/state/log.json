@@ -13,13 +13,13 @@
       "hook": "كل ترند فالمغرب، مشروح ليك بالدارجة",
       "sources": [],
       "stats": {
-        "views": 16,
-        "reach": 5,
+        "views": 19,
+        "reach": 6,
         "saves": 0,
         "shares": 0,
         "likes": 0,
         "comments": 0,
-        "checked": "2026-11-25"
+        "checked": "2026-11-26"
       }
     },
     {
@@ -44,7 +44,7 @@
         "shares": 0,
         "likes": 1,
         "comments": 0,
-        "checked": "2026-11-25"
+        "checked": "2026-11-26"
       }
     },
     {
@@ -63,13 +63,13 @@
         "L'ODJ"
       ],
       "stats": {
-        "views": null,
-        "reach": null,
-        "saves": null,
-        "shares": null,
-        "likes": null,
-        "comments": null,
-        "checked": null
+        "views": 4,
+        "reach": 2,
+        "saves": 0,
+        "shares": 0,
+        "likes": 0,
+        "comments": 0,
+        "checked": "2026-11-26"
       }
     }
   ],
@@ -93,6 +93,11 @@
       "date": "2026-11-25",
       "step": "radar",
       "detail": "Google Trends RSS non lu (permission WebFetch non accordée pendant l'exécution planifiée) ; radar fait avec WebSearch et la presse (Hespress, L'ODJ, Afrik-Foot)"
+    },
+    {
+      "date": "2026-11-26",
+      "step": "radar",
+      "detail": "Google Trends RSS non lu (permission WebFetch non accordée pendant l'exécution planifiée) ; radar fait avec WebSearch et la presse (Hespress, Libération, Al3omk, Le360, Le Matin)"
     }
   ],
   "learnings": [
