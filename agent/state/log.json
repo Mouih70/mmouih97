@@ -71,6 +71,31 @@
         "comments": 0,
         "checked": "2026-11-26"
       }
+    },
+    {
+      "date": "2026-11-26",
+      "topic": "Essaouira accueille la conférence annuelle du Réseau des villes créatives de l'UNESCO (25-27/11), 123 villes de 53 pays, une première en Afrique et dans le monde arabe",
+      "category": "culture",
+      "format": "reel",
+      "trial": true,
+      "folder": "posts/2026-11-26-essaouira-unesco",
+      "media_id": "18143163502714610",
+      "permalink": "https://www.instagram.com/reel/DgNJstclIer/",
+      "hook": "علاش وفود من 123 مدينة ف العالم جات للصويرة؟",
+      "sources": [
+        "ليبيراسيون",
+        "العمق",
+        "لو360"
+      ],
+      "stats": {
+        "views": null,
+        "reach": null,
+        "saves": null,
+        "shares": null,
+        "likes": null,
+        "comments": null,
+        "checked": null
+      }
     }
   ],
   "comments": [],
