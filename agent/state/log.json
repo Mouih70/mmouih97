@@ -96,6 +96,33 @@
         "comments": 0,
         "checked": "2026-11-27"
       }
+    },
+    {
+      "date": "2026-11-27",
+      "topic": "Phase de groupes CAF 2026-2027 : 4 clubs marocains démarrent le samedi 28/11 (C1 : RS Berkane-Colombe, Pyramids-MAS ; Coupe CAF : Raja-ASKO Kara, AS FAR-Durban City), Raja dans le groupe d'Al Ahly",
+      "category": "sport",
+      "format": "carousel",
+      "trial": false,
+      "folder": "posts/2026-11-27-caf-clubs-marocains",
+      "media_id": "18104302529418995",
+      "permalink": "https://www.instagram.com/p/DgPu264iHwR/",
+      "hook": "واش عارف شكون غادي يواجه فريقك ف إفريقيا؟",
+      "sources": [
+        "هسبريس",
+        "لوماتان",
+        "H24info",
+        "Africa Top Sports",
+        "AfricaFootUnited"
+      ],
+      "stats": {
+        "views": null,
+        "reach": null,
+        "saves": null,
+        "shares": null,
+        "likes": null,
+        "comments": null,
+        "checked": null
+      }
     }
   ],
   "comments": [],
@@ -131,6 +158,7 @@
     }
   ],
   "learnings": [
-    "Rendu : dans une phrase arabe, « 6-0 » ou « 90+9 » s'affichent inversés (bidi) ; écrire les scores en mots (« بـ6 لصفر ») et la minute en un seul nombre (« الدقيقة 99 »)."
+    "Rendu : dans une phrase arabe, « 6-0 » ou « 90+9 » s'affichent inversés (bidi) ; écrire les scores en mots (« بـ6 لصفر ») et la minute en un seul nombre (« الدقيقة 99 »).",
+    "Rendu : un nombre en fin de point (« ف 2025 », « يناير 2027 ») passe seul à la ligne si le point est trop long ; raccourcir le point d'un ou deux mots pour le garder sur la même ligne."
   ]
 }
